@@ -1,8 +1,8 @@
 # Things I've worked on
 
 #3d printed rc car
-![rc1](https://github.com/kobester13/things/blob/main/images/3d-cr1.jpg)
-![rc2](https://github.com/kobester13/things/blob/main/images/3d-cr2.jpg)
+![3d-car1](https://github.com/kobester13/things/blob/main/images/3d-rc1.jpg)
+![3d-car2](https://github.com/kobester13/things/blob/main/images/3d-cr2.jpg)
 
 # House Lights
 ![house_lights](https://github.com/kobester13/things/blob/main/images/house_lights.jpg)
